@@ -1,0 +1,120 @@
+[
+    {
+        "_id":"1001",
+        "course_id":"1",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "C Programming Basic",
+        "description":"C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.",
+        "author":
+        {
+            "name":"Mr C Programer",
+            "images":"https://img.freepik.com/free-photo/close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background_1258-66609.jpg?w=2000",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://www.mrvermainstitute.com/wp-content/uploads/2022/04/C-progamming.jpg",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"2001",
+        "course_id":"2",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "Python Programming Basic",
+        "description":"Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems",
+        "author":
+        {
+            "name":"Mr Python",
+            "images":"https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"3001",
+        "course_id":"3",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "Java Programming Basic",
+        "description":"Use code CYBERSECURITY22 & get 50% off Pro subscriptions for a limited time. Enroll today! Learn in-demand coding skills for free with Codecademy. Interactive Online Course. Choose Your Skill Path. Collaborative Learning. Level Up Your Skills.",
+        "author":{
+            "name":"Mr Object Oriented",
+            "images":"https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://contentstatic.techgig.com/photo/83117460.cms",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"4001",
+        "course_id":"4",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "PHP Programming Basic",
+        "description":"The PHP Programming Language Meaning Explained. PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).",
+        "author":
+        {
+            "name":"Mr PHP",
+            "images":"https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://tripurawebsolution.com/wp-content/uploads/2021/08/ultimate-php-best-practices-1280x720-1.jpg",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"5001",
+        "course_id":"5",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "C++ Programming Basic",
+        "description":"A Free Online Introductory Course On Programming Through C++ - With Certificate. Expand Your Skills, Reach Your Potential & Boost Your Earnings With An Alison Certificate. Boost Your Resume. No Enrolment Fees. Get Certified & Get Hired. 1000s Of Free Courses.",
+        "author":
+        {
+            "name":"Mr PLUSH",
+            "images":"https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"6001",
+        "course_id":"6",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "Javascript Programming Basic",
+        "description":"JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
+        "author":
+        {
+            "name":"Mr J-Script",
+            "images":"https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://www.thewindowsclub.com/wp-content/uploads/2020/09/JavaScript.jpg",
+        "publish_date":"10-20-2022"
+
+    },
+    {
+        "_id":"7001",
+        "course_id":"7",
+        "rating" : "4.5",
+        "total_sales": "200",
+        "title": "C# Programming Basic",
+        "description":"C# (pronounced 'See Sharp') is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in . NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.",
+        "author":
+        {
+            "name":"Mr Hash",
+            "images":"https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg",
+            "designation":"Software Engineer"
+        },
+        "img_url":"https://www.devopsschool.com/blog/wp-content/uploads/2022/03/feature-and-advantage-of-using-c.png",
+        "publish_date":"10-20-2022"
+
+    }
+]
